@@ -1,0 +1,62 @@
+h2{
+    color:#20bcd5;
+    text-align: center;
+    margin-bottom: 10px;
+}
+body{
+    background:LemonChiffon ;
+    font-family: 'Handlee', cursive;
+}
+h2 span{
+    border: 4px dashed #20bcd5;
+    text-align: center
+}
+h3 span{
+    border: 4px dashed #20bcd5;
+}
+p{
+    size: 7px;
+    margin-bottom: 10px;
+}
+.card{
+    text-align: center;
+    background-color:antiquewhite;
+}
+.css{
+   text-align: center;
+   margin: 10px;
+}
+.jkh{
+    text-align: center;
+    color: darkcyan;
+    margin: 10px;
+}
+.box{
+    padding: 15px;
+}
+.container{
+    margin: auto;
+}
+.wer{
+    text-align: center;
+    background-color: MistyRose ;
+    border-radius: 28px;
+}
+.btn{
+    background: #111;
+    padding: 15px 35px;
+    color: #fff;
+    border-radius: 20px;
+    border: none;
+}
+.table{
+    text-align: center;
+}
+.table td:hover{
+    background-color: red;
+    color: #fff;
+}
+.css p:hover{
+    color:#fff;
+    background-color:cornflowerblue;
+}
